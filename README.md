@@ -5,8 +5,7 @@
 
 <h2 align="center"> Figma Preview </h2>
 
-| ![preview](https://github.com/sharshekeev13/flutter_niam_express/blob/main/assets/screens/cover_figma.jpg) |
-| :------------: | :------------: | :------------: |
+![preview](https://github.com/sharshekeev13/flutter_niam_express/blob/main/assets/screens/cover_figma.jpg)
 
 <h2 align="center"> App Preview </h2>
 
