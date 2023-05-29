@@ -1,16 +1,30 @@
-# niam_express_food_app
+<h1 align="center"> Niam Express UI </h1>
 
-A new Flutter project.
+<p align="center">The interface of the Niam Express food delivery app. The design was borrowed from @NouhaCoulibaly1. Link to <a href=""https://www.figma.com/community/file/1137120077501538546>Figma</a> design. </p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h2 align="center"> Figma Preview </h2>
 
-A few resources to get you started if this is your first Flutter project:
+| ![preview](https://github.com/sharshekeev13/flutter_niam_express/blob/main/assets/screens/cover_figma.jpg) |
+| :------------: | :------------: | :------------: |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h2 align="center"> App Preview </h2>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| ![screen1](https://github.com/sharshekeev13/flutter_niam_express/blob/main/assets/screens/welcome.jpg) | ![screen2](https://github.com/sharshekeev13/flutter_niam_express/blob/main/assets/screens/login.jpg) | ![screen3](https://github.com/sharshekeev13/flutter_niam_express/blob/main/assets/screens/home.jpg) |
+| :------------: | :------------: | :------------: |
+<h2 align="center"> How to run </h2>
+
+1. Clone the repo
+   ```sh
+   https://github.com/sharshekeev13/flutter_todo_firebase.git
+   ```
+   
+2. Install all the packages by typing
+   ```sh
+   flutter pub get
+   ```
+   
+3. Run the App
+   ```sh
+   flutter run
+   ```
