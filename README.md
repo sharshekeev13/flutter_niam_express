@@ -15,7 +15,7 @@
 
 1. Clone the repo
    ```sh
-   https://github.com/sharshekeev13/flutter_todo_firebase.git
+   https://github.com/sharshekeev13/flutter_niam_express.git
    ```
    
 2. Install all the packages by typing
